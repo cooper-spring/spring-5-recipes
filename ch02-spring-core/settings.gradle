@@ -2,4 +2,5 @@ rootProject.name = 'ch02-spring-core'
 
 include 'chapter02-1'
 include 'chapter02-2'
+include 'chapter02-3'
 
